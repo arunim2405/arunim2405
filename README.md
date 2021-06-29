@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 💬 Ask me about Full Stack Development, Blockchain or Cloud ☁🚀
+- 📫 How to reach me: arunim2@gmail.com
+
+![Arunim's Statistics](https://raw.githubusercontent.com/arunim2405/my-github-stats/a6e1473da4f66f917df2e7054e056894e7ecff01/generated/overview.svg)
+![Language Statistics](https://raw.githubusercontent.com/arunim2405/my-github-stats/a6e1473da4f66f917df2e7054e056894e7ecff01/generated/languages.svg)
 
 <!--
 **arunim2405/arunim2405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
