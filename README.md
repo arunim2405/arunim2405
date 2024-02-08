@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 💬 Ask me about Full Stack Development, and Cloud ☁🚀
+- 💬 Ask me about Full Stack Development and Cloud ☁🚀
 - 📫 How to reach me: arunim2@gmail.com
 
 ![Arunim's Statistics](https://raw.githubusercontent.com/arunim2405/my-github-stats/master/generated/overview.svg)
